@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ApkSigner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ApkSigner_jar</output-path>
+    <root id="archive" name="ApkSigner.jar">
+      <element id="module-output" name="ApkSigner" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apksigner.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
